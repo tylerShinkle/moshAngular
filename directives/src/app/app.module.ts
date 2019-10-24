@@ -14,3 +14,6 @@ import { AppComponent } from './app.component';
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+
+
+//USEFUL ng new angular-bootstrap-example
