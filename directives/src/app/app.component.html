@@ -1,0 +1,21 @@
+<!--
+for ngIf the condition is checked to see if it will be displayed
+you can use conditional statements or function calls to which 
+evaluate to true or false.
+
+this html file is dependant upon the logic of this components ts 
+file. To refer the properties of another component use providers,
+and create an object.
+-->
+
+
+<div *ngIf="courses.length>0">
+    List of Courses
+</div>
+
+<div *ngIf="courses.length===0">
+    No courses yet
+</div>
+
+
+
