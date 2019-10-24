@@ -14,3 +14,5 @@ export class AppComponent {
 //STRUCTURAL DIRECTIVES : modify the structure of the DOM
 
 //ATTRIBUTE DIRECTIVES : modify the attributes of DOM elements
+
+//https://youtu.be/LtT01ZCHRjk?list=PLTjRvDozrdlxAhsPP4ZYtt3G8KbJ449oT&t=214
